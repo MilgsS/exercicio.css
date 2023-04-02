@@ -1,0 +1,63 @@
+*{
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+article{
+    display: flexbox;
+}
+h1{
+    margin-top: 0px;
+    font-size: 50px;
+    margin-bottom: 0px
+}
+.container h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 55px;
+}
+.container h3{
+    margin-left: 90px;
+    margin-top: 0px;
+}
+.container{
+    display: block;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+p{
+    margin-top: 4px;
+    margin-bottom: 3px;
+}  
+time{
+    color: gray;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+}
+.corpo a:hover{
+    text-decoration: underline;
+}
+#economia2{
+    margin-top: 57px;
+}
+#esportes2{
+    margin-top: 60px;
+}
+hr{
+    color: black;
+}
+#musica2{
+    margin-top: 75px;
+}
+#Politica{
+    margin-top: 78px
+}
+header{
+    display: inline;
+}
